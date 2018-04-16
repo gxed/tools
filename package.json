@@ -1,0 +1,16 @@
+{
+  "author": "magik6k",
+  "bugs": {
+    "url": "https://github.com/gxed/tools"
+  },
+  "gx": {
+    "dvcsimport": "golang.org/x/tools"
+  },
+  "gxVersion": "0.11.0",
+  "language": "go",
+  "license": "",
+  "name": "tools",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.1"
+}
+
